@@ -140,7 +140,7 @@ MYSQL_SSL_ENABLE = 0
 MYSQL_SSL_CERT = '/root/shadowsocks/client-cert.pem'
 MYSQL_SSL_KEY = '/root/shadowsocks/client-key.pem'
 MYSQL_SSL_CA = '/root/shadowsocks/ca.pem'
-
+````
 ###出现(1042, u"Can't get hostname for your address")错误
 ````
 my.cnf里,[mysqld]项目下
